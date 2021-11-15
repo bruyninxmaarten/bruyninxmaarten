@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bruyninxmaarten
 - 👀 I’m interested in Development (AI/Web)
 - 🌱 I’m currently learning AI & Robotics @ PXL
-- 💞️ I’m looking to collaborate on Web development projects
 - 📫 How to reach me: maarten.bruyninx@gmail.com
 
 <!---
