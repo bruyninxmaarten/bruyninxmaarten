@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bruyninxmaarten
 - 👀 I’m interested in Development (AI/Web)
-- 🌱 I’m currently learning AI & Robotics @ PXL
+- 🌱 I'm currently working at Aziri as a Low/Nocode developer
 - 📫 How to reach me: maarten.bruyninx@gmail.com
 
 <!---
